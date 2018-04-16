@@ -1,0 +1,25 @@
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Sistema.SplashScreen.resources
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.exe
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.pdb
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.exe
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.pdb
+c:\users\hp\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Sistema.frmLogin.resources
+C:\Users\HP\documents\visual studio 2015\Projects\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.MDI_Menu.resources
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.exe.config
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.exe
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.pdb
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.csprojResolveAssemblyReference.cache
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.frmPesquisaProduto.resources
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Modelos.frmBase.resources
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Sistema.frmLogin.resources
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Sistema.SplashScreen.resources
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.MDI_Menu.resources
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Properties.Resources.resources
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.csproj.GenerateResource.Cache
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.exe
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.pdb
+G:\04-08 WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Cadastros.frmCadCategoria.resources
